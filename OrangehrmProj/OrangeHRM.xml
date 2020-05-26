@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Orangehrm">
+	<test name="pendingleaverequestTestcase">
+		<classes>
+			<class name="com.TestCase.Test_PendingleaveReq"></class>
+		</classes>
+	</test>
+	
+	 <test name="UserroleTestcase">
+		<classes>
+			<class name="com.TestCase.Test_UserRole"></class>
+		</classes>
+	</test>
+</suite>

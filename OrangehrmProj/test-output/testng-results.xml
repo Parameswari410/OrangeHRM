@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37386" started-at="2020-05-14T14:52:03Z" finished-at="2020-05-14T14:52:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37386" started-at="2020-05-14T14:52:03Z" finished-at="2020-05-14T14:52:40Z">
+      <class name="com.Extenteport.ExtentEg">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.Extenteport.ExtentEg@d56d67]" name="launch" is-config="true" duration-ms="19190" started-at="2020-05-14T20:21:44Z" finished-at="2020-05-14T20:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="openGoogle()[pri:0, instance:com.Extenteport.ExtentEg@d56d67]" name="openGoogle" duration-ms="2804" started-at="2020-05-14T20:22:03Z" finished-at="2020-05-14T20:22:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogle -->
+        <test-method status="PASS" signature="openping()[pri:0, instance:com.Extenteport.ExtentEg@d56d67]" name="openping" duration-ms="17711" started-at="2020-05-14T20:22:06Z" finished-at="2020-05-14T20:22:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openping -->
+        <test-method status="PASS" signature="openyahoo()[pri:0, instance:com.Extenteport.ExtentEg@d56d67]" name="openyahoo" duration-ms="16827" started-at="2020-05-14T20:22:23Z" finished-at="2020-05-14T20:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openyahoo -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.Extenteport.ExtentEg@d56d67]" name="close" is-config="true" duration-ms="2150" started-at="2020-05-14T20:22:40Z" finished-at="2020-05-14T20:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.Extenteport.ExtentEg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
