@@ -50,7 +50,7 @@ public class Test_UserRole extends CommonFunctions {
 		
 		PageFactory.initElements(driver, UserRolepagepoj.class);
 		
-		logger.info("Move to userpage");
+		logger.info("Navigate to userpage");
 		movetouserpage();
 		
 		logger.info("select userRole");
